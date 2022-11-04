@@ -17,7 +17,7 @@ This project consists of a systematic comparison between a large language model 
 * Link to Paper: [Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)
 * Adapted code: [Stanford's CS224U OpenQA Homework](https://github.com/cgpotts/cs224u/blob/master/hw_openqa.ipynb)
 
-### Retrieval Transformers (ReTro)
+### Retrieval-Enhanced Transformers (ReTro)
 * Notebook: [retro.ipynb](retro.ipynb)
 * Purpose: Adaptation of the ReTro model to generate answers to a given prompt from SQuAD 1.1
 * Link to Paper: [Improving language models by retrieving from trillions of tokens](https://arxiv.org/abs/2112.04426)
